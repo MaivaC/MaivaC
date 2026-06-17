@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MaivaC,a self-taught web developer
+- 👋 Hi, I’m @MaivaC
 - 👀 I’m interested in ML,Data Science and AI
 - 🌱 I’m currently learning python for Data Science
 - 💞️ I’m looking to collaborate on projects and work with others
